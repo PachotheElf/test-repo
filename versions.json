@@ -8,7 +8,7 @@
         "minorVer": 5,
         "patchVer": 0,
         "releaseDate": "19-05-20 4:06 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.05.0.bin",
         "checksum": "4294751716"
       },
       {
@@ -18,7 +18,7 @@
         "minorVer": 5,
         "patchVer": 1,
         "releaseDate": "23-05-20 14:55 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.1.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.05.1.bin",
         "checksum": "4294758707"
       },
       {
@@ -28,7 +28,7 @@
         "minorVer": 5,
         "patchVer": 2,
         "releaseDate": "23-05-20 22:45 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.2.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/development/transition_esp_idf_v_4.2_20.05.2.bin",
         "checksum": "4294760581"
       },
       {
@@ -38,7 +38,7 @@
         "minorVer": 5,
         "patchVer": 3,
         "releaseDate": "26-05-20 17:01 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.3.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/development/transition_esp_idf_v_4.2_20.05.3.bin",
         "checksum": "4294757099"
       },
       {
@@ -48,7 +48,7 @@
         "minorVer": 5,
         "patchVer": 4,
         "releaseDate": "26-05-20 19:17 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.4.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/development/transition_esp_idf_v_4.2_20.05.4.bin",
         "checksum": "4294757077"
       },
       {
@@ -58,7 +58,7 @@
         "minorVer": 5,
         "patchVer": 5,
         "releaseDate": "26-05-20 20:09 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.5.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.05.5.bin",
         "checksum": "4294724177"
       },
       {
@@ -68,7 +68,7 @@
         "minorVer": 5,
         "patchVer": 6,
         "releaseDate": "27-05-20 11:38 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.6.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.05.6.bin",
         "checksum": "4294167318"
       },
       {
@@ -78,7 +78,7 @@
         "minorVer": 5,
         "patchVer": 7,
         "releaseDate": "31-05-20 18:00 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.05.7.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.05.7.bin",
         "checksum": "4294724129"
       },
       {
@@ -88,7 +88,7 @@
         "minorVer": 6,
         "patchVer": 0,
         "releaseDate": "02-06-20 22:24 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.0.bin",
         "checksum": "4294759265"
       },
       {
@@ -98,7 +98,7 @@
         "minorVer": 6,
         "patchVer": 1,
         "releaseDate": "02-06-20 22:29 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.1.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.1.bin",
         "checksum": "4294758557"
       },
       {
@@ -108,7 +108,7 @@
         "minorVer": 6,
         "patchVer": 2,
         "releaseDate": "02-06-20 22:30 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.2.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.2.bin",
         "checksum": "4294758557"
       },
       {
@@ -118,7 +118,7 @@
         "minorVer": 6,
         "patchVer": 3,
         "releaseDate": "02-06-20 22:30 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.3.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.3.bin",
         "checksum": "4294758557"
       },
       {
@@ -128,7 +128,7 @@
         "minorVer": 6,
         "patchVer": 4,
         "releaseDate": "02-06-20 22:33 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.4.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.4.bin",
         "checksum": "4294758557"
       },
       {
@@ -138,7 +138,7 @@
         "minorVer": 6,
         "patchVer": 5,
         "releaseDate": "02-06-20 22:35 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.5.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.5.bin",
         "checksum": "4294758557"
       },
       {
@@ -148,7 +148,7 @@
         "minorVer": 6,
         "patchVer": 6,
         "releaseDate": "02-06-20 22:39 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.6.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.6.bin",
         "checksum": "4294759445"
       },
       {
@@ -158,7 +158,7 @@
         "minorVer": 6,
         "patchVer": 7,
         "releaseDate": "02-06-20 22:42 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.7.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.7.bin",
         "checksum": "4294758884"
       },
       {
@@ -168,7 +168,7 @@
         "minorVer": 6,
         "patchVer": 8,
         "releaseDate": "02-06-20 22:43 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.8.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.8.bin",
         "checksum": "4294758884"
       },
       {
@@ -178,7 +178,7 @@
         "minorVer": 6,
         "patchVer": 9,
         "releaseDate": "03-06-20 13:46 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.9.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.9.bin",
         "checksum": "4294758909"
       },
       {
@@ -188,7 +188,7 @@
         "minorVer": 6,
         "patchVer": 10,
         "releaseDate": "05-06-20 11:50 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.10.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.10.bin",
         "checksum": "4294758515"
       },
       {
@@ -198,7 +198,7 @@
         "minorVer": 6,
         "patchVer": 11,
         "releaseDate": "05-06-20 19:41 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/transition_esp_idf_v_4.2_20.06.11.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/transition_esp_idf_v_4.2_20.06.11.bin",
         "checksum": "4294758576"
       }
     ]
@@ -212,7 +212,7 @@
         "minorVer": 6,
         "patchVer": 0,
         "releaseDate": "11-06-20 22:25 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Probando_NVS_autogenerado_20.06.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Probando_NVS_autogenerado_20.06.0.bin",
         "checksum": "4294202421"
       }
     ]
@@ -226,7 +226,7 @@
         "minorVer": 6,
         "patchVer": 0,
         "releaseDate": "25-06-20 13:51 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.06.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.06.0.bin",
         "checksum": "4294758025"
       },
       {
@@ -236,7 +236,7 @@
         "minorVer": 6,
         "patchVer": 1,
         "releaseDate": "28-06-20 17:22 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.06.1.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.06.1.bin",
         "checksum": "4294758346"
       },
       {
@@ -246,7 +246,7 @@
         "minorVer": 6,
         "patchVer": 2,
         "releaseDate": "30-06-20 14:58 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.06.2.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.06.2.bin",
         "checksum": "4294166089"
       },
       {
@@ -256,7 +256,7 @@
         "minorVer": 6,
         "patchVer": 3,
         "releaseDate": "30-06-20 16:41 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.06.3.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.06.3.bin",
         "checksum": "4294758657"
       },
       {
@@ -266,7 +266,7 @@
         "minorVer": 7,
         "patchVer": 0,
         "releaseDate": "08-07-20 19:27 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.0.bin",
         "checksum": "4294756770"
       },
       {
@@ -276,7 +276,7 @@
         "minorVer": 7,
         "patchVer": 1,
         "releaseDate": "08-07-20 22:52 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.1.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.1.bin",
         "checksum": "4294166402"
       },
       {
@@ -286,7 +286,7 @@
         "minorVer": 7,
         "patchVer": 2,
         "releaseDate": "08-07-20 22:58 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.2.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.2.bin",
         "checksum": "4294166402"
       },
       {
@@ -296,7 +296,7 @@
         "minorVer": 7,
         "patchVer": 3,
         "releaseDate": "13-07-20 18:21 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.3.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.3.bin",
         "checksum": "4294165521"
       },
       {
@@ -306,7 +306,7 @@
         "minorVer": 7,
         "patchVer": 4,
         "releaseDate": "13-07-20 18:54 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.4.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.4.bin",
         "checksum": "4294755354"
       },
       {
@@ -316,7 +316,7 @@
         "minorVer": 7,
         "patchVer": 5,
         "releaseDate": "13-07-20 20:28 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.5.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.5.bin",
         "checksum": "4294755371"
       },
       {
@@ -326,7 +326,7 @@
         "minorVer": 7,
         "patchVer": 6,
         "releaseDate": "15-07-20 0:32 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.6.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.6.bin",
         "checksum": "4294756255"
       },
       {
@@ -336,7 +336,7 @@
         "minorVer": 7,
         "patchVer": 7,
         "releaseDate": "15-07-20 0:36 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.7.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.7.bin",
         "checksum": "4294756255"
       },
       {
@@ -346,7 +346,7 @@
         "minorVer": 7,
         "patchVer": 8,
         "releaseDate": "20-07-20 20:46 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.8.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.8.bin",
         "checksum": "4294754432"
       },
       {
@@ -356,7 +356,7 @@
         "minorVer": 7,
         "patchVer": 9,
         "releaseDate": "24-07-20 23:18 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.07.9.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.07.9.bin",
         "checksum": "4294757497"
       },
       {
@@ -366,7 +366,7 @@
         "minorVer": 8,
         "patchVer": 0,
         "releaseDate": "04-08-20 12:23 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.0.bin",
         "checksum": "4294200897"
       },
       {
@@ -376,7 +376,7 @@
         "minorVer": 8,
         "patchVer": 1,
         "releaseDate": "05-08-20 18:40 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.1.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.1.bin",
         "checksum": "4294157658"
       },
       {
@@ -386,7 +386,7 @@
         "minorVer": 8,
         "patchVer": 2,
         "releaseDate": "05-08-20 18:52 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.2.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.2.bin",
         "checksum": "4294157686"
       },
       {
@@ -396,7 +396,7 @@
         "minorVer": 8,
         "patchVer": 3,
         "releaseDate": "05-08-20 18:57 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.3.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.3.bin",
         "checksum": "4294157686"
       },
       {
@@ -406,7 +406,7 @@
         "minorVer": 8,
         "patchVer": 4,
         "releaseDate": "07-08-20 23:45 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.4.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.4.bin",
         "checksum": "4294157654"
       },
       {
@@ -416,7 +416,7 @@
         "minorVer": 8,
         "patchVer": 5,
         "releaseDate": "11-08-20 20:28 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.5.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.5.bin",
         "checksum": "4294157046"
       },
       {
@@ -426,7 +426,7 @@
         "minorVer": 8,
         "patchVer": 6,
         "releaseDate": "13-08-20 19:30 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.6.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.6.bin",
         "checksum": "4294156662"
       },
       {
@@ -436,7 +436,7 @@
         "minorVer": 8,
         "patchVer": 7,
         "releaseDate": "18-08-20 9:51 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.7.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.7.bin",
         "checksum": "4294155302"
       },
       {
@@ -446,7 +446,7 @@
         "minorVer": 8,
         "patchVer": 8,
         "releaseDate": "22-08-20 23:27 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.8.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.8.bin",
         "checksum": "4294154182"
       },
       {
@@ -456,7 +456,7 @@
         "minorVer": 8,
         "patchVer": 9,
         "releaseDate": "24-08-20 18:30 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.9.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.9.bin",
         "checksum": "4294153350"
       },
       {
@@ -466,7 +466,7 @@
         "minorVer": 8,
         "patchVer": 10,
         "releaseDate": "27-08-20 9:13 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.10.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.10.bin",
         "checksum": "4294152774"
       },
       {
@@ -476,7 +476,7 @@
         "minorVer": 8,
         "patchVer": 11,
         "releaseDate": "27-08-20 9:13 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.11.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.11.bin",
         "checksum": "4294152774"
       },
       {
@@ -486,7 +486,7 @@
         "minorVer": 8,
         "patchVer": 12,
         "releaseDate": "27-08-20 12:17 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.12.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.12.bin",
         "checksum": "4294152774"
       },
       {
@@ -496,7 +496,7 @@
         "minorVer": 8,
         "patchVer": 13,
         "releaseDate": "27-08-20 12:21 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.08.13.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.08.13.bin",
         "checksum": "4294152806"
       },
       {
@@ -506,7 +506,7 @@
         "minorVer": 9,
         "patchVer": 0,
         "releaseDate": "07-09-20 0:08 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.0.bin",
         "checksum": "4294151222"
       },
       {
@@ -516,7 +516,7 @@
         "minorVer": 9,
         "patchVer": 1,
         "releaseDate": "07-09-20 21:52 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.1.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.1.bin",
         "checksum": "4294150678"
       },
       {
@@ -526,7 +526,7 @@
         "minorVer": 9,
         "patchVer": 2,
         "releaseDate": "10-09-20 12:30 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.2.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.2.bin",
         "checksum": "4294150406"
       },
       {
@@ -536,7 +536,7 @@
         "minorVer": 9,
         "patchVer": 3,
         "releaseDate": "10-09-20 12:38 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.3.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.3.bin",
         "checksum": "4294150326"
       },
       {
@@ -546,7 +546,7 @@
         "minorVer": 9,
         "patchVer": 4,
         "releaseDate": "10-09-20 12:46 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.4.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.4.bin",
         "checksum": "4294150358"
       },
       {
@@ -556,7 +556,7 @@
         "minorVer": 9,
         "patchVer": 5,
         "releaseDate": "10-09-20 12:55 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.5.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.5.bin",
         "checksum": "4294150390"
       },
       {
@@ -566,7 +566,7 @@
         "minorVer": 9,
         "patchVer": 6,
         "releaseDate": "10-09-20 12:58 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.6.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.6.bin",
         "checksum": "4294150390"
       },
       {
@@ -576,7 +576,7 @@
         "minorVer": 9,
         "patchVer": 7,
         "releaseDate": "10-09-20 12:59 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.7.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.7.bin",
         "checksum": "4294150390"
       },
       {
@@ -586,7 +586,7 @@
         "minorVer": 9,
         "patchVer": 8,
         "releaseDate": "10-09-20 13:01 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.8.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.8.bin",
         "checksum": "4294150390"
       },
       {
@@ -596,7 +596,7 @@
         "minorVer": 9,
         "patchVer": 9,
         "releaseDate": "10-09-20 13:03 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.9.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.9.bin",
         "checksum": "4294150390"
       },
       {
@@ -606,7 +606,7 @@
         "minorVer": 9,
         "patchVer": 10,
         "releaseDate": "10-09-20 13:04 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.10.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.10.bin",
         "checksum": "4294150390"
       },
       {
@@ -616,7 +616,7 @@
         "minorVer": 9,
         "patchVer": 11,
         "releaseDate": "10-09-20 14:05 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.11.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.11.bin",
         "checksum": "4294150294"
       },
       {
@@ -626,7 +626,7 @@
         "minorVer": 9,
         "patchVer": 12,
         "releaseDate": "10-09-20 14:11 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.12.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.12.bin",
         "checksum": "4294150230"
       },
       {
@@ -636,7 +636,7 @@
         "minorVer": 9,
         "patchVer": 13,
         "releaseDate": "10-09-20 14:18 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.13.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.13.bin",
         "checksum": "4294150198"
       },
       {
@@ -646,7 +646,7 @@
         "minorVer": 9,
         "patchVer": 14,
         "releaseDate": "10-09-20 14:24 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.14.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.14.bin",
         "checksum": "4294150310"
       },
       {
@@ -656,7 +656,7 @@
         "minorVer": 9,
         "patchVer": 15,
         "releaseDate": "10-09-20 14:40 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.15.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.15.bin",
         "checksum": "4294150230"
       },
       {
@@ -666,7 +666,7 @@
         "minorVer": 9,
         "patchVer": 16,
         "releaseDate": "10-09-20 14:47 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.16.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.16.bin",
         "checksum": "4294150214"
       },
       {
@@ -676,7 +676,7 @@
         "minorVer": 9,
         "patchVer": 17,
         "releaseDate": "10-09-20 14:55 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.17.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.17.bin",
         "checksum": "4294150214"
       },
       {
@@ -686,7 +686,7 @@
         "minorVer": 9,
         "patchVer": 18,
         "releaseDate": "10-09-20 15:02 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.18.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.18.bin",
         "checksum": "4294150214"
       },
       {
@@ -696,7 +696,7 @@
         "minorVer": 9,
         "patchVer": 19,
         "releaseDate": "10-09-20 15:06 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.19.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.19.bin",
         "checksum": "4294150214"
       },
       {
@@ -706,7 +706,7 @@
         "minorVer": 9,
         "patchVer": 20,
         "releaseDate": "10-09-20 15:14 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.20.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.20.bin",
         "checksum": "4294150182"
       },
       {
@@ -716,7 +716,7 @@
         "minorVer": 9,
         "patchVer": 21,
         "releaseDate": "10-09-20 17:00 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.21.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.21.bin",
         "checksum": "4294150166"
       },
       {
@@ -726,7 +726,7 @@
         "minorVer": 9,
         "patchVer": 22,
         "releaseDate": "10-09-20 17:25 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.22.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.22.bin",
         "checksum": "4294150086"
       },
       {
@@ -736,7 +736,7 @@
         "minorVer": 9,
         "patchVer": 23,
         "releaseDate": "10-09-20 17:26 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.23.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.23.bin",
         "checksum": "4294150086"
       },
       {
@@ -746,7 +746,7 @@
         "minorVer": 9,
         "patchVer": 24,
         "releaseDate": "10-09-20 17:39 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.24.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.24.bin",
         "checksum": "4294150182"
       },
       {
@@ -756,7 +756,7 @@
         "minorVer": 9,
         "patchVer": 25,
         "releaseDate": "10-09-20 17:41 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.25.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.25.bin",
         "checksum": "4294150182"
       },
       {
@@ -766,7 +766,7 @@
         "minorVer": 9,
         "patchVer": 26,
         "releaseDate": "11-09-20 9:38 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.26.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.26.bin",
         "checksum": "4294150182"
       },
       {
@@ -776,7 +776,7 @@
         "minorVer": 9,
         "patchVer": 27,
         "releaseDate": "11-09-20 9:52 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.27.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.27.bin",
         "checksum": "4294150182"
       },
       {
@@ -786,7 +786,7 @@
         "minorVer": 9,
         "patchVer": 28,
         "releaseDate": "11-09-20 10:00 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.28.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.28.bin",
         "checksum": "4294150198"
       },
       {
@@ -796,7 +796,7 @@
         "minorVer": 9,
         "patchVer": 29,
         "releaseDate": "11-09-20 10:06 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.29.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.29.bin",
         "checksum": "4294150294"
       },
       {
@@ -806,7 +806,7 @@
         "minorVer": 9,
         "patchVer": 30,
         "releaseDate": "11-09-20 10:26 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.30.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.30.bin",
         "checksum": "4294150294"
       },
       {
@@ -816,7 +816,7 @@
         "minorVer": 9,
         "patchVer": 31,
         "releaseDate": "11-09-20 11:17 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.31.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.31.bin",
         "checksum": "4294149766"
       },
       {
@@ -826,7 +826,7 @@
         "minorVer": 9,
         "patchVer": 32,
         "releaseDate": "11-09-20 11:22 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.32.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.32.bin",
         "checksum": "4294149686"
       },
       {
@@ -836,7 +836,7 @@
         "minorVer": 9,
         "patchVer": 33,
         "releaseDate": "11-09-20 12:02 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.33.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.33.bin",
         "checksum": "4294149494"
       },
       {
@@ -846,7 +846,7 @@
         "minorVer": 9,
         "patchVer": 34,
         "releaseDate": "12-09-20 10:51 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.34.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.34.bin",
         "checksum": "4294148726"
       },
       {
@@ -856,7 +856,7 @@
         "minorVer": 9,
         "patchVer": 35,
         "releaseDate": "12-09-20 11:15 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.35.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.35.bin",
         "checksum": "4294148886"
       },
       {
@@ -866,7 +866,7 @@
         "minorVer": 9,
         "patchVer": 36,
         "releaseDate": "12-09-20 11:19 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.36.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.36.bin",
         "checksum": "4294148886"
       },
       {
@@ -876,7 +876,7 @@
         "minorVer": 9,
         "patchVer": 37,
         "releaseDate": "12-09-20 11:34 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.37.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.37.bin",
         "checksum": "4294148886"
       },
       {
@@ -886,7 +886,7 @@
         "minorVer": 9,
         "patchVer": 38,
         "releaseDate": "12-09-20 11:53 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.38.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.38.bin",
         "checksum": "4294148886"
       },
       {
@@ -896,7 +896,7 @@
         "minorVer": 9,
         "patchVer": 39,
         "releaseDate": "12-09-20 12:53 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.39.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.39.bin",
         "checksum": "4294148854"
       },
       {
@@ -906,7 +906,7 @@
         "minorVer": 9,
         "patchVer": 40,
         "releaseDate": "12-09-20 13:02 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.40.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.40.bin",
         "checksum": "4294148854"
       },
       {
@@ -916,7 +916,7 @@
         "minorVer": 9,
         "patchVer": 41,
         "releaseDate": "12-09-20 13:07 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.41.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.41.bin",
         "checksum": "4294148854"
       },
       {
@@ -926,7 +926,7 @@
         "minorVer": 9,
         "patchVer": 42,
         "releaseDate": "12-09-20 13:10 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.42.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.42.bin",
         "checksum": "4294148966"
       },
       {
@@ -936,7 +936,7 @@
         "minorVer": 9,
         "patchVer": 43,
         "releaseDate": "12-09-20 18:02 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.43.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.43.bin",
         "checksum": "4294149062"
       },
       {
@@ -946,7 +946,7 @@
         "minorVer": 9,
         "patchVer": 44,
         "releaseDate": "12-09-20 19:05 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.44.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.44.bin",
         "checksum": "4294148550"
       },
       {
@@ -956,7 +956,7 @@
         "minorVer": 9,
         "patchVer": 45,
         "releaseDate": "13-09-20 13:20 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.45.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.45.bin",
         "checksum": "4294148150"
       },
       {
@@ -966,7 +966,7 @@
         "minorVer": 9,
         "patchVer": 46,
         "releaseDate": "14-09-20 16:38 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.46.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.46.bin",
         "checksum": "4294147494"
       },
       {
@@ -976,7 +976,7 @@
         "minorVer": 9,
         "patchVer": 47,
         "releaseDate": "14-09-20 17:54 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.47.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.47.bin",
         "checksum": "4294147462"
       },
       {
@@ -986,7 +986,7 @@
         "minorVer": 9,
         "patchVer": 48,
         "releaseDate": "14-09-20 18:52 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.48.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.48.bin",
         "checksum": "4294147446"
       },
       {
@@ -996,7 +996,7 @@
         "minorVer": 9,
         "patchVer": 49,
         "releaseDate": "14-09-20 19:58 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.49.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.49.bin",
         "checksum": "4294147286"
       },
       {
@@ -1006,7 +1006,7 @@
         "minorVer": 9,
         "patchVer": 50,
         "releaseDate": "16-09-20 9:02 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.50.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.50.bin",
         "checksum": "4294147286"
       },
       {
@@ -1016,7 +1016,7 @@
         "minorVer": 9,
         "patchVer": 51,
         "releaseDate": "16-09-20 9:25 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.51.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.51.bin",
         "checksum": "4294147430"
       },
       {
@@ -1026,7 +1026,7 @@
         "minorVer": 9,
         "patchVer": 52,
         "releaseDate": "16-09-20 9:27 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.52.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.52.bin",
         "checksum": "4294147430"
       },
       {
@@ -1036,7 +1036,7 @@
         "minorVer": 9,
         "patchVer": 53,
         "releaseDate": "16-09-20 9:50 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.53.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.53.bin",
         "checksum": "4294147334"
       },
       {
@@ -1046,7 +1046,7 @@
         "minorVer": 9,
         "patchVer": 54,
         "releaseDate": "16-09-20 10:35 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.54.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.54.bin",
         "checksum": "4294147350"
       },
       {
@@ -1056,7 +1056,7 @@
         "minorVer": 9,
         "patchVer": 55,
         "releaseDate": "16-09-20 11:24 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.55.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.55.bin",
         "checksum": "4294147030"
       },
       {
@@ -1066,7 +1066,7 @@
         "minorVer": 9,
         "patchVer": 56,
         "releaseDate": "16-09-20 11:35 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.56.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.56.bin",
         "checksum": "4294147030"
       },
       {
@@ -1076,7 +1076,7 @@
         "minorVer": 9,
         "patchVer": 57,
         "releaseDate": "16-09-20 11:41 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.57.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.57.bin",
         "checksum": "4294147030"
       },
       {
@@ -1086,7 +1086,7 @@
         "minorVer": 9,
         "patchVer": 58,
         "releaseDate": "16-09-20 12:03 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.58.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.58.bin",
         "checksum": "4294146790"
       },
       {
@@ -1096,7 +1096,7 @@
         "minorVer": 9,
         "patchVer": 59,
         "releaseDate": "16-09-20 12:13 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.59.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.59.bin",
         "checksum": "4294146742"
       },
       {
@@ -1106,7 +1106,7 @@
         "minorVer": 9,
         "patchVer": 60,
         "releaseDate": "16-09-20 13:01 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.60.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.60.bin",
         "checksum": "4294146710"
       },
       {
@@ -1116,7 +1116,7 @@
         "minorVer": 9,
         "patchVer": 61,
         "releaseDate": "16-09-20 15:37 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.61.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.61.bin",
         "checksum": "4294146550"
       },
       {
@@ -1126,7 +1126,7 @@
         "minorVer": 9,
         "patchVer": 62,
         "releaseDate": "16-09-20 20:44 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.62.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.62.bin",
         "checksum": "4294146150"
       },
       {
@@ -1136,7 +1136,7 @@
         "minorVer": 9,
         "patchVer": 63,
         "releaseDate": "16-09-20 22:59 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.63.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.63.bin",
         "checksum": "4294146134"
       },
       {
@@ -1146,7 +1146,7 @@
         "minorVer": 9,
         "patchVer": 64,
         "releaseDate": "16-09-20 23:28 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.64.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.64.bin",
         "checksum": "4294146134"
       },
       {
@@ -1156,7 +1156,7 @@
         "minorVer": 9,
         "patchVer": 65,
         "releaseDate": "17-09-20 10:17 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.65.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.65.bin",
         "checksum": "4294146390"
       },
       {
@@ -1166,7 +1166,7 @@
         "minorVer": 9,
         "patchVer": 66,
         "releaseDate": "18-09-20 15:14 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.66.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.66.bin",
         "checksum": "4294141702"
       },
       {
@@ -1176,7 +1176,7 @@
         "minorVer": 9,
         "patchVer": 67,
         "releaseDate": "22-09-20 15:39 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.67.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.67.bin",
         "checksum": "4294139766"
       },
       {
@@ -1186,7 +1186,7 @@
         "minorVer": 9,
         "patchVer": 68,
         "releaseDate": "22-09-20 15:44 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.68.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.68.bin",
         "checksum": "4294139702"
       },
       {
@@ -1196,7 +1196,7 @@
         "minorVer": 9,
         "patchVer": 69,
         "releaseDate": "22-09-20 15:44 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.69.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.69.bin",
         "checksum": "4294139702"
       },
       {
@@ -1206,7 +1206,7 @@
         "minorVer": 9,
         "patchVer": 70,
         "releaseDate": "25-09-20 21:11 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.70.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.70.bin",
         "checksum": "4294140662"
       },
       {
@@ -1216,7 +1216,7 @@
         "minorVer": 9,
         "patchVer": 71,
         "releaseDate": "26-09-20 22:56 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Music_Patterns_20.09.71.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Music_Patterns_20.09.71.bin",
         "checksum": "4294139158"
       }
     ]
@@ -1230,7 +1230,7 @@
         "minorVer": 9,
         "patchVer": 0,
         "releaseDate": "26-09-20 8:44 UTC -4:00",
-        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/Release_20.09.0.bin",
+        "url": "https://github.com/PachotheElf/test-repo/raw/ota-binaries/development/Release_20.09.0.bin",
         "checksum": "4294140550"
       }
     ]
